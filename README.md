@@ -21,6 +21,13 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 ## Organizations
 
+<details>
+  <summary>Slack</summary>
+
+* [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users - 2021](https://slack.engineering/load-testing-with-koi-pond/)
+* [Preparing for Huge Waves of Traffic via Load Testing - 2019](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/)
+</details>
+
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
