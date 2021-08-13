@@ -22,10 +22,20 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 ## Organizations
 
 <details>
+  <summary>Mattermost</summary>
+
+* [Improving performance (and more) through load testing - 2020](https://mattermost.com/blog/improving-performance-through-load-testing/)
+* [Mattermost recipe: Using Google Lighthouse and ChatOps for website auditing and performance tracking - 2020](https://mattermost.com/blog/mattermost-lighthouse-auditing/)
+* [Performance at Scale with Mattermost - 2018](https://mattermost.com/blog/performance-scale-mattermost/)
+
+</details>
+
+<details>
   <summary>Slack</summary>
 
 * [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users - 2021](https://slack.engineering/load-testing-with-koi-pond/)
 * [Preparing for Huge Waves of Traffic via Load Testing - 2019](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/)
+
 </details>
 
 ## Credits
