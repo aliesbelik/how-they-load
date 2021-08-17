@@ -31,6 +31,19 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Mozilla</summary>
+
+#### Blogs & Articles
+
+* [Load Testing at Mozilla - 2017](https://ziade.org/2017/03/23/load-testing-at-mozilla/)
+
+#### Videos
+
+* [Load testing web services at Mozilla with Molotov](https://www.youtube.com/watch?v=_Ue3rYNs2ro) - Tarek Ziade @ FOSDEM 2018
+
+</details>
+
+<details>
   <summary>Slack</summary>
 
 * [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users - 2021](https://slack.engineering/load-testing-with-koi-pond/)
