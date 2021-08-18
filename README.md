@@ -22,6 +22,19 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 ## Organizations
 
 <details>
+  <summary>Airtasker</summary>
+
+#### Blogs & Articles
+
+* [How Airtasker uses Ruby JMeter and Flood for their load testing - 2020](https://www.flood.io/blog/how-airtasker-uses-ruby-jmeter-and-flood-for-their-load-testing)
+
+#### Videos
+
+* [How much pressure can your app handle - Performance testing with Ruby](https://www.youtube.com/watch?v=Q09wJm4P8Xw) - Nancy Cai @ RubyConf 2020
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 * [Improving performance (and more) through load testing - 2020](https://mattermost.com/blog/improving-performance-through-load-testing/)
