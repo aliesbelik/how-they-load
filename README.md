@@ -59,8 +59,15 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 <details>
   <summary>Slack</summary>
 
+#### Blogs & Articles
+
 * [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users - 2021](https://slack.engineering/load-testing-with-koi-pond/)
 * [Preparing for Huge Waves of Traffic via Load Testing - 2019](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/)
+
+#### Videos
+
+* [Better Integration Tests for Performance Monitoring](https://www.youtube.com/watch?v=j0PJhD5XNJ8) - Maude Lemaire @ Strange Loop Conference 2019
+* [Mobile performance testing at Slack. How to Build a Performance Test Pipeline from Scratch](https://www.youtube.com/watch?v=xKMIGN1WHgo) - Valera Zakharov @ DevFest Ukraine 2018
 
 </details>
 
