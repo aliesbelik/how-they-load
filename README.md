@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/images/howtheyloadtest_banner.svg" alt="howtheyloadtest banner" width="300px">
+</p>
+
 # How They Load Test
 
 > A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform load testing for their products.
@@ -92,6 +96,7 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
+* Banner cartoon vector by [vectorjuice](https://www.freepik.com/vectorjuice) from [freepik.com](https://www.freepik.com/vectors/cartoon).
 
 ## Other How They... collections
 
