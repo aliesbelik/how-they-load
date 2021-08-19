@@ -26,7 +26,7 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 #### Blogs & Articles
 
-* [How Airtasker uses Ruby JMeter and Flood for their load testing - 2020](https://www.flood.io/blog/how-airtasker-uses-ruby-jmeter-and-flood-for-their-load-testing)
+* [How Airtasker uses Ruby JMeter and Flood for their load testing](https://www.flood.io/blog/how-airtasker-uses-ruby-jmeter-and-flood-for-their-load-testing) - 2020
 
 #### Videos
 
@@ -37,9 +37,9 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 <details>
   <summary>Mattermost</summary>
 
-* [Improving performance (and more) through load testing - 2020](https://mattermost.com/blog/improving-performance-through-load-testing/)
-* [Mattermost recipe: Using Google Lighthouse and ChatOps for website auditing and performance tracking - 2020](https://mattermost.com/blog/mattermost-lighthouse-auditing/)
-* [Performance at Scale with Mattermost - 2018](https://mattermost.com/blog/performance-scale-mattermost/)
+* [Improving performance (and more) through load testing](https://mattermost.com/blog/improving-performance-through-load-testing/) - 2020
+* [Mattermost recipe: Using Google Lighthouse and ChatOps for website auditing and performance tracking](https://mattermost.com/blog/mattermost-lighthouse-auditing/) - 2020
+* [Performance at Scale with Mattermost](https://mattermost.com/blog/performance-scale-mattermost/) - 2018
 
 </details>
 
@@ -48,7 +48,7 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 #### Blogs & Articles
 
-* [Load Testing at Mozilla - 2017](https://ziade.org/2017/03/23/load-testing-at-mozilla/)
+* [Load Testing at Mozilla](https://ziade.org/2017/03/23/load-testing-at-mozilla/) - 2017
 
 #### Videos
 
@@ -61,8 +61,8 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 #### Blogs & Articles
 
-* [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users - 2021](https://slack.engineering/load-testing-with-koi-pond/)
-* [Preparing for Huge Waves of Traffic via Load Testing - 2019](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/)
+* [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users](https://slack.engineering/load-testing-with-koi-pond/) - 2021
+* [Preparing for Huge Waves of Traffic via Load Testing](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/) - 2019
 
 #### Videos
 
