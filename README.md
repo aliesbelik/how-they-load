@@ -40,6 +40,15 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Cloud Posse</summary>
+
+#### Tools
+
+* [Load Testing Stack](https://github.com/cloudposse/load-testing) - A collection of best practices, workflows, scripts and scenarios used for load and performance testing.
+
+</details>
+
+<details>
   <summary>GitLab</summary>
 
 #### Blogs & Articles
