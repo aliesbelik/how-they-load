@@ -55,6 +55,19 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>HelloFresh</summary>
+
+#### Blogs & Articles
+
+* [Kangal, user-friendly load testing tool](https://engineering.hellofresh.com/kangal-952e70e205fd) - 2020
+
+#### Tools
+
+* [Kangal (Kubernetes and Go Automatic Loader)](https://github.com/hellofresh/kangal)
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 #### Blogs & Articles
