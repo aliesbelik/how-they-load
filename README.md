@@ -76,6 +76,11 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 * [Load testing web services at Mozilla with Molotov](https://www.youtube.com/watch?v=_Ue3rYNs2ro) - Tarek Ziade @ FOSDEM 2018
 
+#### Tools
+
+* [Feuerwerk](https://github.com/mozilla-services/feuerwerk) - A tool designed to run load tests in Docker containers using Google Kubernetes Engine.
+* [Raptor](https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html) - A performance testing framework for running browser pageload and browser benchmark tests.
+
 </details>
 
 <details>
