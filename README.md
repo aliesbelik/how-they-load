@@ -55,6 +55,15 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Grafana</summary>
+
+#### Tools
+
+* [The Open Source Load Testing Stack](https://github.com/grafana/open-source-load-testing-stack)
+
+</details>
+
+<details>
   <summary>HelloFresh</summary>
 
 #### Blogs & Articles
