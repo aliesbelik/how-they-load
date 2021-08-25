@@ -49,6 +49,15 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Console</summary>
+
+#### Blogs & Articles
+
+* [Automated website performance testing with GitHub Actions, k6 and Cloudflare Workers](https://blog.console.dev/automated-website-performance-testing-with-github-actions-k6-and-cloudflare-workers/) - 2021
+
+</details>
+
+<details>
   <summary>GitLab</summary>
 
 #### Blogs & Articles
