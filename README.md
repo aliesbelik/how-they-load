@@ -138,6 +138,20 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 </details>
 
+<details>
+  <summary>Twitter</summary>
+
+#### Talks
+
+* [Testing Systems at Scale @Twitter](https://www.youtube.com/watch?v=99RABfKNfcY) - James Waldrop @ GTAC 2013
+
+#### Tools
+
+* [iago](https://github.com/twitter-archive/iago)/[iago2](https://github.com/twitter/iago2) - A load generator, built for engineers.
+* [rpc-perf](https://github.com/twitter/rpc-perf) - A tool for benchmarking RPC services.
+
+</details>
+
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
