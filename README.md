@@ -124,6 +124,21 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Shopify</summary>
+
+#### Blogs & Articles
+
+* [Resiliency Planning for High-Traffic Events](https://shopify.engineering/resiliency-planning-for-high-traffic-events) - 2020
+* [Capacity Planning at Scale](https://shopify.engineering/capacity-planning-shopify) - 2020
+* [Pummelling the Platform–Performance Testing Shopify](https://shopify.engineering/performance-testing-shopify) - 2020
+
+#### Tools
+
+* [Genghis](https://github.com/Shopify/go-lua/blob/master/doc/presentations/golangmtl-march-2016/presentation.md) - An in-house load generation tool using Lua VM in Go as core execution engine.
+
+</details>
+
+<details>
   <summary>Slack</summary>
 
 #### Blogs & Articles
