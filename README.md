@@ -167,6 +167,16 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 </details>
 
+<details>
+  <summary>Wingify</summary>
+
+#### Blogs & Articles
+
+* [Performance Testing a data pipeline at scale](https://engineering.wingify.com/posts/performance-testing-a-data-pipeline-at-scale/) - 2020
+* [Overcoming the Challenges of Performance Testing Single-page Apps](https://engineering.wingify.com/posts/performance-testing/) - 2015
+
+</details>
+
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
