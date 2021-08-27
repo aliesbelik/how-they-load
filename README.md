@@ -75,6 +75,10 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 <details>
   <summary>Grafana</summary>
 
+#### Blogs & Articles
+
+* [How we use the k6 load-testing tool for developing Grafana](https://grafana.com/blog/2021/08/23/how-we-use-the-k6-load-testing-tool-for-developing-grafana/) - 2021
+
 #### Tools
 
 * [The Open Source Load Testing Stack](https://github.com/grafana/open-source-load-testing-stack)
