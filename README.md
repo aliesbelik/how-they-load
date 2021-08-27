@@ -26,6 +26,8 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 ## Organizations
 
+> In alphabetical order.
+
 <details>
   <summary>Airtasker</summary>
 
@@ -192,6 +194,11 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 * [How They DevOps](https://github.com/bregman-arie/howtheydevops)
 * [How They SRE](https://github.com/upgundecha/howtheysre)
 * [How They AWS](https://github.com/upgundecha/howtheyaws)
+
+## Contribute
+
+Contributions are welcome!<br>
+Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
