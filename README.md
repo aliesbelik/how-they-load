@@ -112,6 +112,16 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 </details>
 
 <details>
+  <summary>Miro</summary>
+
+#### Blogs & Articles
+
+* [Managing hundreds of servers for load testing: autoscaling, custom monitoring, DevOps culture](https://medium.com/miro-engineering/managing-hundreds-of-servers-for-load-testing-autoscaling-custom-monitoring-devops-culture-390fd1c7e699) - 2020
+* [Reliable load testing with regards to unexpected nuances](https://medium.com/miro-engineering/reliable-load-testing-with-regards-to-unexpected-nuances-6f38c82196a5) - 2020
+
+</details>
+
+<details>
   <summary>Mozilla</summary>
 
 #### Blogs & Articles
