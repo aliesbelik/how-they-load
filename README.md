@@ -183,6 +183,21 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 </details>
 
+<details>
+  <summary>ZOOZ</summary>
+
+#### Blogs & Articles
+
+* [Distributed load testing with Kubernetes and Predator](https://medium.com/@elinudler/distributed-load-testing-using-kubernetes-and-predator-cf447e33e5cc) - 2020
+* [Optimizing Node.js Performance in Microservice Architecture](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a) - 2019
+* [The Rise of Predator](https://medium.com/zooz-engineering/by-niv-lipetz-software-engineer-zooz-b5928da0b7a8) - 2019
+
+#### Tools
+
+* [Predator](https://www.predator.dev/) - A distributed open-source platform for load testing APIs using artillery as load testing engine.
+
+</details>
+
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
