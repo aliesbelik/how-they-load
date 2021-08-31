@@ -4,11 +4,11 @@
 
 # How They Load Test
 
-> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform load testing for their products.
+> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform/analyze load testing for their products.
 
 ## Introduction
 
-__How They Load Test__ is a curated knowledge collection on performance engineering and load testing related topics.
+__How They Load Test__ is a curated knowledge collection on such aspects of performance engineering as **performance and load testing** and related topics.
 
 ## Topics
 
@@ -17,7 +17,8 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 * Capacity Planning
 * CI/CD
 * Incidents
-* Monitoring
+* Monitoring, Observability, Alerting
+* Non-Functional Requirements Elicitation and Analysis
 * Performance Engineering
 * Scalability
 * Test Environments
@@ -136,6 +137,24 @@ __How They Load Test__ is a curated knowledge collection on performance engineer
 
 * [Feuerwerk](https://github.com/mozilla-services/feuerwerk) - A tool designed to run load tests in Docker containers using Google Kubernetes Engine.
 * [Raptor](https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html) - A performance testing framework for running browser pageload and browser benchmark tests.
+
+</details>
+
+<details>
+  <summary>Pinterest</summary>
+
+#### Blogs & Articles
+
+* [Distributed tracing at Pinterest with new open source tools](https://medium.com/pinterest-engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b) - 2017
+
+#### Talks
+
+* [Evolution of Observability Tools at Pinterest](https://www.youtube.com/watch?v=v7xmkA6B1yo) - Naoman Abbas @ USENIX SREcon 2019
+
+#### Tools
+
+* [Bender](https://github.com/pinterest/bender) - An easy-to-use library for creating load testing applications.
+* [JBender](https://github.com/pinterest/jbender) - A port of Bender to the JVM platform with Quasar lightweight threads (fibers) and channels.
 
 </details>
 
