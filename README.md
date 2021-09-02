@@ -102,6 +102,16 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Helpshift</summary>
+
+#### Blogs & Articles
+
+* [How to benchmark a Kafka consumer that makes async HTTP requests](https://medium.com/helpshift-engineering/how-to-benchmark-a-kafka-consumer-that-makes-async-http-requests-7d7134d62f57) - 2019
+* [Load Testing using Tsung](https://medium.com/helpshift-engineering/load-testing-using-tsung-ef26a662929b) - 2014
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 #### Blogs & Articles
