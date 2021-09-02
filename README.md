@@ -61,6 +61,19 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Flashphoner</summary>
+
+#### Blogs & Articles
+
+* [Load test of WebRTC recording on AWS](https://habr.com/ru/company/flashphoner/blog/570360/) - 2021
+* [WebRTC face to face video chat. Load test](https://habr.com/ru/company/flashphoner/blog/570316/) - 2021
+* [Load testing for WebRTC mixer](https://habr.com/ru/company/flashphoner/blog/570342/) - 2021
+* [Using a headless browser for WebRTC load tests](https://habr.com/ru/company/flashphoner/blog/570250/) - 2021
+* [Choosing a server for 1000 WebRTC streams](https://habr.com/ru/company/flashphoner/blog/570284/) - 2021
+
+</details>
+
+<details>
   <summary>GitLab</summary>
 
 #### Blogs & Articles
