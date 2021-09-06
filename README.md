@@ -52,6 +52,16 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Cloudflare</summary>
+
+#### Blogs & Articles
+
+* [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/) - 2015
+* [Optimizing Your Linux Stack for Maximum Mobile Web Performance](https://blog.cloudflare.com/optimizing-the-linux-stack-for-mobile-web-per/) - 2012
+
+</details>
+
+<details>
   <summary>Console</summary>
 
 #### Blogs & Articles
