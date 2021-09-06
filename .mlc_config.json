@@ -1,0 +1,8 @@
+{
+    "retryOn429": true,
+	"ignorePatterns": [
+        {
+			"pattern": "^https://blog.cloudflare.com/"
+		}
+    ]
+}
