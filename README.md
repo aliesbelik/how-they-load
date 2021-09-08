@@ -43,6 +43,17 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Amazon</summary>
+
+#### Talks
+
+* [UI, Load and Performance testing at Amazon](https://www.youtube.com/watch?v=UVS4CQvO4_M) - Leo Zhadanovsky, Dave Mozealous @ AWS re:Invent 2014
+* [Best Practices for Benchmarking and Performance Analysis in the Cloud](https://www.youtube.com/watch?v=__tT5de64cI) - Robert Barnes @ AWS re:Invent 2013
+* [Large Scale Load Testing Amazon.com's Traffic on AWS](https://www.youtube.com/watch?v=pgnQQoTMBhI) - Carlos Arguelles / AWS re:Invent 2013
+
+</details>
+
+<details>
   <summary>Cloud Posse</summary>
 
 #### Tools
