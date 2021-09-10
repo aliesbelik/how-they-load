@@ -49,7 +49,7 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 
 * [UI, Load and Performance testing at Amazon](https://www.youtube.com/watch?v=UVS4CQvO4_M) - Leo Zhadanovsky, Dave Mozealous @ AWS re:Invent 2014
 * [Best Practices for Benchmarking and Performance Analysis in the Cloud](https://www.youtube.com/watch?v=__tT5de64cI) - Robert Barnes @ AWS re:Invent 2013
-* [Large Scale Load Testing Amazon.com's Traffic on AWS](https://www.youtube.com/watch?v=pgnQQoTMBhI) - Carlos Arguelles / AWS re:Invent 2013
+* [Large Scale Load Testing Amazon.com's Traffic on AWS](https://www.youtube.com/watch?v=pgnQQoTMBhI) - Carlos Arguelles @ AWS re:Invent 2013
 
 </details>
 
@@ -86,6 +86,7 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 
 #### Blogs & Articles
 
+* [Turning RTSP into WebRTC: how many cameras will the server withstand?](https://habr.com/ru/company/flashphoner/blog/570370/) - 2021
 * [Load test of WebRTC recording on AWS](https://habr.com/ru/company/flashphoner/blog/570360/) - 2021
 * [WebRTC face to face video chat. Load test](https://habr.com/ru/company/flashphoner/blog/570316/) - 2021
 * [Load testing for WebRTC mixer](https://habr.com/ru/company/flashphoner/blog/570342/) - 2021
