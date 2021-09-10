@@ -258,6 +258,20 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Wix</summary>
+
+#### Blogs & Articles
+
+* [How We Improved Website Performance by Evolving Our Infrastructure](https://www.wix.engineering/post/how-we-improved-website-performance-by-evolving-our-infrastructure) - 2021
+
+#### Talks
+
+* [Testing for Performance](https://www.youtube.com/watch?v=T1Zuad-Mkg0) - Dan Shappir @ Wix Engineering Tech Talks 2019
+* [Improving Load Time for 100 Million Websites](https://www.youtube.com/watch?v=5dtDUkvLLCE) - Dan Shappir @ Wix Engineering Tech Talks 2019
+
+</details>
+
+<details>
   <summary>ZOOZ</summary>
 
 #### Blogs & Articles
