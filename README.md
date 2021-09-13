@@ -204,6 +204,18 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 </details>
 
 <details>
+  <summary>Salesforce</summary>
+
+#### Blogs & Articles
+
+* [How to Scale Test on Salesforce](https://medium.com/salesforce-architects/how-to-scale-test-on-salesforce-bf933d5948b9) - 2021
+* [The Importance of Data Quality & Quantity for Performance and Scale Testing](https://medium.com/salesforce-architects/the-importance-of-data-quality-quantity-for-performance-and-scale-testing-8fabd8c6a9cf) - 2021
+* [Performance Testing on the Lightning Platform](https://developer.salesforce.com/blogs/2020/09/performance-testing-on-the-lightning-platform) - 2020
+* [Introduction to Performance Testing](https://developer.salesforce.com/blogs/2020/09/introduction-to-performance-testing) - 2020
+
+</details>
+
+<details>
   <summary>Shopify</summary>
 
 #### Blogs & Articles
