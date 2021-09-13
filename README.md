@@ -74,6 +74,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>CloudStory</summary>
+
+#### Blogs & Articles
+
+* [Running Load Testing at scale on shoestring budget](https://medium.com/cloudstory/running-load-testing-at-scale-on-shoestring-budget-b7ea34e4d5db) - 2020
+
+</details>
+
+<details>
   <summary>Console</summary>
 
 #### Blogs & Articles
