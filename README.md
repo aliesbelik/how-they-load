@@ -4,14 +4,15 @@
 
 # How They Load Test
 
-> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform/analyze load testing for their products.
+> A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform/analyze load testing and related acitivities for their products.
 
 ## Introduction
 
-__How They Load Test__ is a curated knowledge collection on such aspects of performance engineering as **performance and load testing** and related topics.
+Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They Load Test__ is a curated knowledge collection on different aspects of performance engineering, foremost, **performance and load testing** and related topics, by leading technology companies around the world.
 
 ## Topics
 
+* Application Performance Management
 * Architecture
 * Automation
 * Capacity Planning
@@ -210,6 +211,7 @@ __How They Load Test__ is a curated knowledge collection on such aspects of perf
 
 * [How to Scale Test on Salesforce](https://medium.com/salesforce-architects/how-to-scale-test-on-salesforce-bf933d5948b9) - 2021
 * [The Importance of Data Quality & Quantity for Performance and Scale Testing](https://medium.com/salesforce-architects/the-importance-of-data-quality-quantity-for-performance-and-scale-testing-8fabd8c6a9cf) - 2021
+* [How to Continuously Profile Tens of Thousands of Production Servers](https://engineering.salesforce.com/how-to-continuously-profile-tens-of-thousands-of-production-servers-a5714bab4dc0) - 2020
 * [Performance Testing on the Lightning Platform](https://developer.salesforce.com/blogs/2020/09/performance-testing-on-the-lightning-platform) - 2020
 * [Introduction to Performance Testing](https://developer.salesforce.com/blogs/2020/09/introduction-to-performance-testing) - 2020
 
