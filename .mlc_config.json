@@ -1,8 +1,8 @@
 {
     "retryOn429": true,
-	"ignorePatterns": [
+    "ignorePatterns": [
         {
-			"pattern": "^https://blog.cloudflare.com/"
-		}
+            "pattern": "^https://blog.cloudflare.com/"
+        }
     ]
 }
