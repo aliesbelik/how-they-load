@@ -196,6 +196,30 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Netflix</summary>
+
+#### Blogs & Articles
+
+* [Manufactured Chaos: How Netflix Does Performance Testing](https://www.flood.io/blog/manufactured-chaos-how-netflix-does-performance-testing) - 2018
+* [Performance Under Load](https://netflixtechblog.medium.com/performance-under-load-3e6fa9a60581) - 2018
+* [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - 2018
+* [Load Testing at Netflix: Virtual Interview with Coburn Watson](https://alexanderpodelko.com/blog/2014/02/11/load-testing-at-netflix-virtual-interview-with-coburn-watson/) - 2014
+* [JMeter Plugin for Cassandra](https://netflixtechblog.com/jmeter-plugin-for-cassandra-8ca848c0d480) - 2012
+
+#### Talks
+
+* [How Netflix Tunes Amazon EC2 Instances for Performance](https://www.youtube.com/watch?v=89fYOo1V2pA) - Brendan Gregg @ AWS re:Invent 2017
+* [Honest Performance Testing with NDBench](https://www.youtube.com/watch?v=-3I9zyuj1Bo) - Vinay Chella @ Cassandra Summit 2016
+* [Performance Tuning Amazon EC2 Instances](https://www.youtube.com/watch?v=7Cyd22kOqWc) - Brendan Gregg @ AWS re:Invent 2014
+
+#### Tools
+
+* [Chaos Monkey](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
+* [NDBench](https://github.com/Netflix/ndbench) - Netflix Data Benchmark, a pluggable cloud-enabled benchmarking tool that can be used across any data store system.
+
+</details>
+
+<details>
   <summary>Pinterest</summary>
 
 #### Blogs & Articles
