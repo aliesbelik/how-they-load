@@ -196,6 +196,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Monzo</summary>
+
+#### Blogs & Articles
+
+* [How we load tested our bank before our £20 million crowdfunding round](https://monzo.com/blog/2019/01/15/crowdfunding-technology-testing) - 2019
+
+#### Talks
+
+* [Scaling for the Known Unknown](https://www.infoq.com/presentations/monzo-microservices-arch/) - Suhail Patel @ QCon London 2019
+
+</details>
+
+<details>
   <summary>Netflix</summary>
 
 #### Blogs & Articles
