@@ -308,6 +308,20 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Uber</summary>
+
+#### Blogs & Articles
+
+* [Introducing QALM, Uber’s QoS Load Management Framework](https://eng.uber.com/qalm-qos-load-management-framework/) - 2018
+* [Reliability at Scale: Engineering an Uneventful New Year's Eve](https://eng.uber.com/nye/) - 2017
+
+#### Talks
+
+* [Testing in Production at Scale](https://www.youtube.com/watch?v=nIlFmja65_g) - Amit Gud @ USENIX SREcon 2019
+
+</details>
+
+<details>
   <summary>Wingify</summary>
 
 #### Blogs & Articles
