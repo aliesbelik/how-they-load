@@ -178,6 +178,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Monzo</summary>
+
+#### Blogs & Articles
+
+* [How we load tested our bank before our £20 million crowdfunding round](https://monzo.com/blog/2019/01/15/crowdfunding-technology-testing) - 2019
+
+#### Talks
+
+* [Scaling for the Known Unknown](https://www.infoq.com/presentations/monzo-microservices-arch/) - Suhail Patel @ QCon London 2019
+
+</details>
+
+<details>
   <summary>Mozilla</summary>
 
 #### Blogs & Articles
@@ -192,19 +205,6 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 * [Feuerwerk](https://github.com/mozilla-services/feuerwerk) - A tool designed to run load tests in Docker containers using Google Kubernetes Engine.
 * [Raptor](https://firefox-source-docs.mozilla.org/testing/perfdocs/raptor.html) - A performance testing framework for running browser pageload and browser benchmark tests.
-
-</details>
-
-<details>
-  <summary>Monzo</summary>
-
-#### Blogs & Articles
-
-* [How we load tested our bank before our £20 million crowdfunding round](https://monzo.com/blog/2019/01/15/crowdfunding-technology-testing) - 2019
-
-#### Talks
-
-* [Scaling for the Known Unknown](https://www.infoq.com/presentations/monzo-microservices-arch/) - Suhail Patel @ QCon London 2019
 
 </details>
 
