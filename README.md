@@ -55,6 +55,22 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Atlassian</summary>
+
+#### Blogs & Articles
+
+* [Performance and scale testing](https://confluence.atlassian.com/adminjiraserver/performance-and-scale-testing-965568707.html)
+* [Jira Performance Testing - Available Tools](https://confluence.atlassian.com/enterprise/jira-performance-testing-available-tools-729743538.html)
+
+#### Tools
+
+* [Jira Performance Tests (JPT)](https://bitbucket.org/atlassian/jira-performance-tests/)
+* [Atlassian Performance Testing Framework](https://confluence.atlassian.com/enterprise/atlassian-performance-testing-framework-935575100.html)
+* [Atlassian Data Center App Performance Toolkit](https://github.com/atlassian/dc-app-performance-toolkit)
+
+</details>
+
+<details>
   <summary>Cloud Posse</summary>
 
 #### Tools
