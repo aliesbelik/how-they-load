@@ -369,6 +369,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 * [Building an end-to-end load test automation system on top of Kubernetes](https://engineering.zalando.com/posts/2021/03/building-an-end-to-end-load-test-automation-system-on-top-of-kubernetes.html) - 2021
 * [How Zalando prepares for Cyber Week](https://engineering.zalando.com/posts/2020/10/how-zalando-prepares-for-cyber-week.html) - 2020
 * [End-to-end load testing Zalando's production website](https://engineering.zalando.com/posts/2019/04/end-to-end-load-testing-zalandos-production-website.html) - 2019
+* [End-to-end latency challenges for microservices](https://engineering.zalando.com/posts/2016/08/end-to-end-latency-challenges-for-microservices.html) - 2016
 
 #### Talks
 
@@ -378,6 +379,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 * [docker-locust](https://github.com/zalando-incubator/docker-locust) - A ready and easy-to-use version of locust which also contains additional/useful features that are required.
 * [transformer](https://github.com/zalando-incubator/transformer) - A command-line tool and Python library to transform/convert web browser sessions (HAR files) into locust load testing scenarios (locustfile).
+* [typhoon](https://github.com/fogfish/typhoon) - A stress and load testing tool for distributed systems that simulates traffic from a test cluster toward a system-under-test and visualizes infrastructure-, protocol- and application-related latencies.
 * [zelt](https://github.com/zalando-incubator/zelt) - Zalando End-to-end Load Tester, a command-line tool for orchestrating the deployment of locust in Kubernetes.
 
 </details>
