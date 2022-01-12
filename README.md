@@ -173,6 +173,20 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>LinkedIn</summary>
+
+#### Blogs & Articles
+
+* [Eliminating toil with fully automated load testing](https://engineering.linkedin.com/blog/2019/eliminating-toil-with-fully-automated-load-testing) - 2019
+* [TrafficShift: Load Testing at Scale](https://engineering.linkedin.com/blog/2017/05/trafficshift--load-testing-at-scale) - 2017
+
+#### Talks
+
+* [Testing in production at LinkedIn](https://www.youtube.com/watch?v=lbO6INBICpQ) - Szczepan Faber @ Devoxx Poland 2018
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 #### Blogs & Articles
