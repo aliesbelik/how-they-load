@@ -267,6 +267,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 #### Blogs & Articles
 
+* [Pinterest Druid Holiday Load Testing](https://medium.com/pinterest-engineering/pinterest-druid-holiday-load-testing-4bd9b9ee1308) - 2021
 * [Distributed tracing at Pinterest with new open source tools](https://medium.com/pinterest-engineering/distributed-tracing-at-pinterest-with-new-open-source-tools-a4f8a5562f6b) - 2017
 
 #### Talks
