@@ -71,6 +71,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Capital One</summary>
+
+#### Blogs & Articles
+
+* [Performance Testing of Event-Driven Microservices](https://medium.com/capital-one-tech/performance-testing-of-event-driven-microservices-f5de74305985) - 2017
+
+</details>
+
+<details>
   <summary>Cloud Posse</summary>
 
 #### Tools
