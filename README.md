@@ -252,6 +252,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 #### Blogs & Articles
 
+* [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe) - 2022
 * [Manufactured Chaos: How Netflix Does Performance Testing](https://www.flood.io/blog/manufactured-chaos-how-netflix-does-performance-testing) - 2018
 * [Performance Under Load](https://netflixtechblog.medium.com/performance-under-load-3e6fa9a60581) - 2018
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - 2018
