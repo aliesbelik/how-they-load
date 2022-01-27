@@ -117,6 +117,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Fitbit</summary>
+
+#### Blogs & Articles
+
+* [Load testing microservices and identifying scalability issues — Engineering Fitness](https://medium.com/fitbit-tech-blog/load-testing-microservices-and-identifying-scalability-issues-engineering-fitness-32a2c09b6d4a) - 2019
+
+</details>
+
+<details>
   <summary>Flashphoner</summary>
 
 #### Blogs & Articles
