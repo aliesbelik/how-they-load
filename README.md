@@ -205,6 +205,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Loveholidays</summary>
+
+#### Blogs & Articles
+
+* [Load testing in production with Grafana Loki, Kubernetes and Golang](https://tech.loveholidays.com/load-testing-in-production-with-grafana-loki-kubernetes-and-golang-1699554d2aa3) - 2022
+
+#### Tools
+
+* [ripley](https://github.com/loveholidays/ripley) - HTTP traffic replay tool at multiples of the original rate.
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 #### Blogs & Articles
