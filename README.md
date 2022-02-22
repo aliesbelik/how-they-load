@@ -117,6 +117,21 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Disney+ Hotstar</summary>
+
+#### Blogs & Articles
+
+* [Building Pubsub for 50M concurrent socket connections](https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf) - 2019
+* ["Millons scale" simulations](https://blog.hotstar.com/millons-scale-simulations-1602befe1ce5) - 2018
+
+#### Talks
+
+* [Real-time messaging service at Hotstar](https://www.youtube.com/watch?v=sF7HN9L54SE) - Piyush Gupta @ RootConf 2020
+* [Scaling Hotstar.com for 25 million concurrent viewers](https://www.youtube.com/watch?v=mFpqrVxxwKc) - Gaurav Kamboj @ AWS re:Invent 2019
+
+</details>
+
+<details>
   <summary>Fitbit</summary>
 
 #### Blogs & Articles
