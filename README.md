@@ -390,6 +390,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 #### Blogs & Articles
 
+* [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) - 2022
 * [Introducing QALM, Uber’s QoS Load Management Framework](https://eng.uber.com/qalm-qos-load-management-framework/) - 2018
 * [Reliability at Scale: Engineering an Uneventful New Year's Eve](https://eng.uber.com/nye/) - 2017
 
