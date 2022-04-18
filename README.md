@@ -310,6 +310,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Nexthink</summary>
+
+#### Blogs & Articles
+
+* [Comparing gRPC performance across different technologies](https://www.nexthink.com/blog/comparing-grpc-performance/) - 2021
+
+</details>
+
+<details>
   <summary>Pinterest</summary>
 
 #### Blogs & Articles
