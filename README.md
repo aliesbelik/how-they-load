@@ -370,6 +370,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 #### Blogs & Articles
 
+* [Continuous Load Testing](https://slack.engineering/continuous-load-testing/) - 2022
 * [Load Testing with Koi Pond: How Slack models and tests with incredibly large groups of users](https://slack.engineering/load-testing-with-koi-pond/) - 2021
 * [Preparing for Huge Waves of Traffic via Load Testing](https://slack.engineering/%ef%b8%8f-surfs-up-preparing-for-huge-waves-of-traffic-via-load-testing/) - 2019
 
