@@ -338,6 +338,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 </details>
 
 <details>
+  <summary>Robinhood</summary>
+
+#### Blogs & Articles
+
+* [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - 2021
+
+</details>
+
+<details>
   <summary>Salesforce</summary>
 
 #### Blogs & Articles
