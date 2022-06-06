@@ -477,7 +477,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 
 #### Tools
 
-* [Predator](https://www.predator.dev/) - A distributed open-source platform for load testing APIs using artillery as load testing engine.
+* [Predator](https://github.com/Zooz/predator) - A distributed open-source platform for load testing APIs using artillery as load testing engine.
 
 </details>
 
