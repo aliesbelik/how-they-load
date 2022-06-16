@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They Load Test__ is a curated knowledge collection on different aspects of performance engineering, foremost, **performance and load testing** and related topics, by leading technology companies around the world.
+Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They Load Test** is a curated knowledge collection on different aspects of performance engineering, foremost, **performance and load testing** and related topics, by leading technology companies around the world.
 
 ## Topics
 
@@ -493,11 +493,13 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), __How They
 * [How They SRE](https://github.com/upgundecha/howtheysre)
 * [How They AWS](https://github.com/upgundecha/howtheyaws)
 
+## Contributors
+
+<a href="https://github.com/aliesbelik/how-they-load/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aliesbelik/how-they-load" alt="contributors">
+</a>
+
 ## Contribute
 
 Contributions are welcome!<br>
-Read the [contribution guidelines](CONTRIBUTING.md) first.
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Read the [CONTRIBUTING](CONTRIBUTING.md) guidelines first.
