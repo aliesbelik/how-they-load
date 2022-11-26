@@ -132,6 +132,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Empathy.co</summary>
+
+#### Blogs & Articles
+
+* [Distributed Load Testing with K6 (K6 + K8s + Argo Workflows)](https://engineering.empathy.co/distributed-load-testing-with-k6/) - 2022
+
+</details>
+
+<details>
   <summary>Fitbit</summary>
 
 #### Blogs & Articles
