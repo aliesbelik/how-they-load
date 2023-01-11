@@ -253,6 +253,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Mercari</summary>
+
+#### Blogs & Articles
+
+* [Benchmarking Automation to Maintain Search Response Performance](https://engineering.mercari.com/en/blog/entry/20220207-8ff8aad53e/) - 2022
+
+</details>
+
+<details>
   <summary>Miro</summary>
 
 #### Blogs & Articles
