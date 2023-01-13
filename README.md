@@ -253,6 +253,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Meesho Tech</summary>
+
+#### Blogs & Articles
+
+* [Scaling for Sale: Automating JMeter Distributed Load Testing](https://medium.com/meesho-tech/scaling-for-sale-automating-jmeter-distributed-load-testing-c128c000cd01) - 2022
+
+</details>
+
+<details>
   <summary>Mercari</summary>
 
 #### Blogs & Articles
