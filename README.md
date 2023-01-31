@@ -15,6 +15,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 * Application Performance Management
 * Architecture
 * Automation
+* Benchmarking
 * Capacity Planning
 * CI/CD
 * Incidents
@@ -444,6 +445,25 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 #### Talks
 
 * [Testing in Production at Scale](https://www.youtube.com/watch?v=nIlFmja65_g) - Amit Gud @ USENIX SREcon 2019
+
+</details>
+
+<details>
+  <summary>VictoriaMetrics</summary>
+
+#### Blogs & Articles
+
+* [Monitoring benchmark: how to generate 100 million samples/s of production-like data](https://victoriametrics.com/blog/benchmark-100m/) - 2023
+* [Grafana Mimir and VictoriaMetrics: performance tests](https://victoriametrics.com/blog/mimir-benchmark/) - 2022
+* [Benchmarking Prometheus-compatible time series databases](https://victoriametrics.com/blog/remote-write-benchmark/) - 2022
+
+#### Talks
+
+* [VictoriaMetrics: scaling to 100 million metrics per second](https://www.youtube.com/watch?v=xfed9_Q0_qU) - Aliaksandr Valialkin @ OSMC 2022
+
+#### Tools
+
+* [prometheus-benchmark](https://github.com/VictoriaMetrics/prometheus-benchmark) - Benchmark for Prometheus-compatible systems.
 
 </details>
 
