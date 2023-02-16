@@ -133,6 +133,24 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Elastic</summary>
+
+#### Blogs & Articles
+
+* [How we perform continuous performance testing on Enterprise Search](https://www.elastic.co/blog/how-to-use-continuous-performance-testing-for-enterprise-search) - 2022
+
+#### Talks
+
+* [Seven Golden Rules for Benchmarking Elasticsearch](https://www.youtube.com/watch?v=-jgmnpG_P-Y) - Daniel Mitterdorfer @ JDK IO 2018
+* [Benchmarking Elasticsearch with Rally](https://www.youtube.com/watch?v=HriBY2zoChw) - Daniel Mitterdorfer @ Search Meetup Munich 2016
+
+#### Tools
+
+* [Rally](https://github.com/elastic/rally) - Macrobenchmarking framework for Elasticsearch.
+
+</details>
+
+<details>
   <summary>Empathy.co</summary>
 
 #### Blogs & Articles
