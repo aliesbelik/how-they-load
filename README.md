@@ -384,6 +384,26 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Redis</summary>
+
+#### Blogs & Articles
+
+* [Redis Labs Performance Testing with Live Traffic](https://redis.com/blog/redis-labs-performance-testing-with-live-traffic/) - 2014
+* [memtier_benchmark: A High-Throughput Benchmarking Tool for Redis & Memcached](https://redis.com/blog/memtier_benchmark-a-high-throughput-benchmarking-tool-for-redis-memcached/) - 2013
+
+#### Talks
+
+* [End-To-End Performance Testing, Profiling, and Analysis at Redis](https://www.youtube.com/watch?v=QemEy97fiY0) - Filipe Oliveira @ P99 CONF 2022
+* [How to benchmark Redis](https://www.youtube.com/watch?v=d6KPJ6aKRJI) - Or Shwartz, Filipe Oliveira @ RedisConf 2021
+
+#### Tools
+
+* [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
+* [redis-benchmark-go](https://github.com/redis-performance/redis-benchmark-go) - Redis benchmark utility in Go.
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 #### Blogs & Articles
