@@ -457,6 +457,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>TeamSnap</summary>
+
+#### Blogs & Articles
+
+* [Load Testing a Service with ~20,000 Requests per Second with Locust, Helm, and Kustomize](https://medium.com/teamsnap-engineering/load-testing-a-service-with-20-000-requests-per-second-with-locust-helm-and-kustomize-ea9bea02ae28) - 2022
+
+</details>
+
+<details>
   <summary>Twitter</summary>
 
 #### Talks
