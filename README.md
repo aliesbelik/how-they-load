@@ -173,12 +173,12 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Turning RTSP into WebRTC: how many cameras will the server withstand?](https://habr.com/ru/company/flashphoner/blog/570370/) - 2021
-* [Load test of WebRTC recording on AWS](https://habr.com/ru/company/flashphoner/blog/570360/) - 2021
-* [WebRTC face to face video chat. Load test](https://habr.com/ru/company/flashphoner/blog/570316/) - 2021
-* [Load testing for WebRTC mixer](https://habr.com/ru/company/flashphoner/blog/570342/) - 2021
-* [Using a headless browser for WebRTC load tests](https://habr.com/ru/company/flashphoner/blog/570250/) - 2021
-* [Choosing a server for 1000 WebRTC streams](https://habr.com/ru/company/flashphoner/blog/570284/) - 2021
+* [Turning RTSP into WebRTC: how many cameras will the server withstand?](https://habr.com/ru/companies/flashphoner/articles/570370/) - 2021
+* [Load test of WebRTC recording on AWS](https://habr.com/ru/companies/flashphoner/articles/570360/) - 2021
+* [WebRTC face to face video chat. Load test](https://habr.com/ru/companies/flashphoner/articles/570316/) - 2021
+* [Load testing for WebRTC mixer](https://habr.com/ru/companies/flashphoner/articles/570342/) - 2021
+* [Using a headless browser for WebRTC load tests](https://habr.com/ru/companies/flashphoner/articles/570250/) - 2021
+* [Choosing a server for 1000 WebRTC streams](https://habr.com/ru/companies/flashphoner/articles/570284/) - 2021
 
 </details>
 
@@ -193,7 +193,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 #### Tools
 
 * [GitLab Performance Tool (GPT)](https://gitlab.com/gitlab-org/quality/performance)
-* [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/quality/gitlab-environment-toolkit)
+* [GitLab Environment Toolkit (GET)](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
 
 </details>
 
@@ -206,7 +206,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Tools
 
-* [The Open Source Load Testing Stack](https://github.com/grafana/open-source-load-testing-stack)
+* [The Open Source Load Testing Stack](https://github.com/grafana/k6-timescaledb-stack)
 
 </details>
 
