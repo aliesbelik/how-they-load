@@ -404,6 +404,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Riot Games</summary>
+
+#### Blogs & Articles
+
+* [Scalability and Load Testing for Valorant](https://technology.riotgames.com/news/scalability-and-load-testing-valorant) - 2020
+
+</details>
+
+<details>
   <summary>Robinhood</summary>
 
 #### Blogs & Articles
