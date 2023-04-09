@@ -466,6 +466,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Spotify</summary>
+
+#### Blogs & Articles
+
+* [Load Testing for 2022 Wrapped](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/) - 2023
+
+</details>
+
+<details>
   <summary>TeamSnap</summary>
 
 #### Blogs & Articles
