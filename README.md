@@ -623,6 +623,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 * [How They DevOps](https://github.com/bregman-arie/howtheydevops)
 * [How They SRE](https://github.com/upgundecha/howtheysre)
 * [How They AWS](https://github.com/upgundecha/howtheyaws)
+* [How They Automate on Mobile](https://github.com/testableapple/how-they-automate-on-mobile)
 
 ## Contributors
 
