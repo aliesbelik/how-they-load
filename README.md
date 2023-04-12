@@ -4,6 +4,9 @@
 
 # How They Load Test
 
+[![how they](https://img.shields.io/badge/how%20they-load%20test-orange?color=dd7c2f&style=flat-square)](#other-how-they-collections)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?color=567e6a&style=flat-square)](CONTRIBUTING.md)
+
 > A curated collection of publicly available resources on how technology and tech-savvy organizations around the world plan/organize/perform/analyze load testing and related acitivities for their products.
 
 ## Introduction
