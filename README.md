@@ -261,6 +261,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Lyft</summary>
+
+#### Blogs & Articles
+
+* [SimulatedRides: How Lyft uses load testing to ensure reliable service during peak events](https://eng.lyft.com/simulatedrides-how-lyft-uses-load-testing-to-ensure-reliable-service-during-peak-events-644dcb654454) - 2023
+
+</details>
+
+<details>
   <summary>Mattermost</summary>
 
 #### Blogs & Articles
