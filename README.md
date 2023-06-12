@@ -429,7 +429,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - 2021
+* [Scaling Confidently with the Load and Fault Team](https://newsroom.aboutrobinhood.com/scaling-confidently-with-the-load-and-fault-team/) - 2021
 
 </details>
 
