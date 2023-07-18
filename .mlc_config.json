@@ -1,5 +1,6 @@
 {
   "retryOn429": true,
+  "aliveStatusCodes": [200, 406],
   "ignorePatterns": [
     {
       "pattern": "^https://blog.cloudflare.com/"
