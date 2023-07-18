@@ -457,7 +457,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Tools
 
-* [Genghis](https://github.com/Shopify/go-lua/blob/master/doc/presentations/golangmtl-march-2016/presentation.md) - An in-house load generation tool using Lua VM in Go as core execution engine.
+* [Genghis](https://github.com/Shopify/go-lua/blob/main/doc/presentations/golangmtl-march-2016/presentation.md) - An in-house load generation tool using Lua VM in Go as core execution engine.
 
 </details>
 
@@ -514,10 +514,10 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Introducing Shadower: A Minimalistic Load Testing Tool](https://www.uber.com/blog/introducing-shadower-a-minimalistic-load-testing-tool/) - 2022
-* [Introducing Ballast: An Adaptive Load Test Framework](https://www.uber.com/blog/introducing-ballast-an-adaptive-load-test-framework/) - 2022
-* [Introducing QALM, Uber’s QoS Load Management Framework](https://www.uber.com/blog/qalm-qos-load-management-framework/) - 2018
-* [Reliability at Scale: Engineering an Uneventful New Year's Eve](https://www.uber.com/blog/nye/) - 2017
+* [Introducing Shadower: A Minimalistic Load Testing Tool](https://www.uber.com/en-US/blog/introducing-shadower-a-minimalistic-load-testing-tool/) - 2022
+* [Introducing Ballast: An Adaptive Load Test Framework](https://www.uber.com/en-US/blog/introducing-ballast-an-adaptive-load-test-framework/) - 2022
+* [Introducing QALM, Uber’s QoS Load Management Framework](https://www.uber.com/en-US/blog/qalm-qos-load-management-framework/) - 2018
+* [Reliability at Scale: Engineering an Uneventful New Year's Eve](https://www.uber.com/en-US/blog/nye/) - 2017
 
 #### Talks
 
