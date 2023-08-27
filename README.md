@@ -35,6 +35,20 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 > In alphabetical order.
 
 <details>
+  <summary>Ably</summary>
+
+#### Blogs & Articles
+
+* [Squid game: how we load-tested Ably’s Control API](https://ably.com/blog/how-we-load-tested-control-api) - 2022
+
+#### Tools
+
+* [ably-boomer](https://github.com/ably/ably-boomer) - Ably load generator for Locust, based on the [boomer](https://github.com/myzhan/boomer) library.
+* [ably-locust](https://github.com/ably-labs/ably-locust) - A JavaScript load generator for Locust.
+
+</details>
+
+<details>
   <summary>Airtasker</summary>
 
 #### Blogs & Articles
