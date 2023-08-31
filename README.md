@@ -215,6 +215,16 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>GovTech Edu</summary>
+
+#### Blogs & Articles
+
+* [Elevating Tech Reliability at Scale: How We Build Dependable Daily Performance Testing Platform](https://medium.com/govtech-edu/elevating-tech-reliability-at-scale-how-we-build-dependable-daily-performance-testing-platform-67616080dae3) - 2023
+* [Unleashing Testing at Scale: How GovTech Edu Built a 200K RPS Load Testing Platform](https://medium.com/govtech-edu/unleashing-testing-at-scale-how-govtech-edu-built-a-200k-rps-load-testing-platform-c1a418dfebd6) - 2023
+
+</details>
+
+<details>
   <summary>Grafana</summary>
 
 #### Blogs & Articles
