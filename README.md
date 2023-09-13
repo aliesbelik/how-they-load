@@ -401,6 +401,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Outbrain</summary>
+
+#### Talks
+
+* [Hold My Beer - Load Testing. In Production. On Autopilot](https://www.youtube.com/watch?v=WDAKOZTQaLQ) - Slava Antonenko @ USENIX SREcon 2023 APAC
+
+</details>
+
+<details>
   <summary>Pinterest</summary>
 
 #### Blogs & Articles
