@@ -12,7 +12,7 @@ jobs:
   markdown-lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Run markdown lint
       uses: nosborn/github-action-markdown-cli@v3.3.0
       with:
