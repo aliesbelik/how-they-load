@@ -530,6 +530,23 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Supabase</summary>
+
+#### Blogs & Articles
+
+* [Supavisor: Scaling Postgres to 1 Million Connections](https://supabase.com/blog/supavisor-1-million) - 2023
+
+#### Talks
+
+* [How Supabase does performance benchmarking using k6](https://www.youtube.com/watch?v=VcrQidYBjEg) - Egor Romanov @ k6 Office Hours 2023
+
+#### Tools
+
+* [supabench](https://github.com/supabase/benchmarks) - Platform to run and keep the history of benchmark runs.
+
+</details>
+
+<details>
   <summary>TeamSnap</summary>
 
 #### Blogs & Articles
