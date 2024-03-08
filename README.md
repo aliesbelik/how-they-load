@@ -200,6 +200,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Form3</summary>
+
+#### Talks
+
+* [Load testing with F1](https://www.youtube.com/watch?v=yKJ_h0K6liM) - Adelina Simion & Andy Kuszyk @ Conf42 Golang 2022
+
+#### Tools
+
+* [f1](https://github.com/form3tech-oss/f1) - A flexible load testing framework using the Go language for test scenarios.
+
+</details>
+
+<details>
   <summary>GitLab</summary>
 
 #### Blogs & Articles
