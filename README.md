@@ -150,6 +150,23 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Edmunds</summary>
+
+#### Blogs & Articles
+
+* [How we fixed a Node.js memory leak by using ShadowReader to replay production traffic into QA](https://technology.edmunds.com/2018/08/25/Investigating-a-Memory-Leak-and-Introducing-ShadowReader/) - 2018
+
+#### Talks
+
+* [ShadowReader - Serverless load tests for replaying production traffic](https://youtu.be/CszgGXqLbg4?t=14550) - Yuki Sawa @ SCaLE 17x 2019
+
+#### Tools
+
+* [ShadowReader](https://github.com/edmunds/shadowreader) - Serverless load testing tool for replaying website traffic by collecting traffic patterns from access logs, powered by AWS Lambda, S3 and ELB.
+
+</details>
+
+<details>
   <summary>Elastic</summary>
 
 #### Blogs & Articles
