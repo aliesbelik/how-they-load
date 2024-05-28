@@ -102,7 +102,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Tools
 
-* [Load Testing Stack](https://github.com/cloudposse/load-testing) - A collection of best practices, workflows, scripts and scenarios used for load and performance testing.
+* [Load Testing Stack](https://github.com/cloudposse-archives/load-testing) - A collection of best practices, workflows, scripts and scenarios used for load and performance testing.
 
 </details>
 
@@ -308,8 +308,8 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Eliminating toil with fully automated load testing](https://engineering.linkedin.com/blog/2019/eliminating-toil-with-fully-automated-load-testing) - 2019
-* [TrafficShift: Load Testing at Scale](https://engineering.linkedin.com/blog/2017/05/trafficshift--load-testing-at-scale) - 2017
+* [Eliminating toil with fully automated load testing](https://www.linkedin.com/blog/engineering/optimization/eliminating-toil-with-fully-automated-load-testing) - 2019
+* [TrafficShift: Load Testing at Scale](https://www.linkedin.com/blog/engineering/scalability/trafficshift-load-testing-at-scale) - 2017
 
 #### Talks
 
@@ -486,8 +486,8 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Redis Labs Performance Testing with Live Traffic](https://redis.com/blog/redis-labs-performance-testing-with-live-traffic/) - 2014
-* [memtier_benchmark: A High-Throughput Benchmarking Tool for Redis & Memcached](https://redis.com/blog/memtier_benchmark-a-high-throughput-benchmarking-tool-for-redis-memcached/) - 2013
+* [Redis Labs Performance Testing with Live Traffic](https://redis.io/blog/redis-labs-performance-testing-with-live-traffic/) - 2014
+* [memtier_benchmark: A High-Throughput Benchmarking Tool for Redis & Memcached](https://redis.io/blog/memtier_benchmark-a-high-throughput-benchmarking-tool-for-redis-memcached/) - 2013
 
 #### Talks
 
@@ -708,7 +708,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Distributed load testing with Kubernetes and Predator](https://medium.com/@elinudler/distributed-load-testing-using-kubernetes-and-predator-cf447e33e5cc) - 2020
+* [Distributed load testing with Kubernetes and Predator](https://medium.com/payu-engineering/distributed-load-testing-using-kubernetes-and-predator-cf447e33e5cc) - 2020
 * [Optimizing Node.js Performance in Microservice Architecture](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a) - 2019
 * [The Rise of Predator](https://medium.com/zooz-engineering/by-niv-lipetz-software-engineer-zooz-b5928da0b7a8) - 2019
 
@@ -721,7 +721,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 ## Credits
 
 * Inspired by [How They Test](https://github.com/abhivaikar/howtheytest) from [Abhijeet Vaikar](https://github.com/abhivaikar).
-* Banner cartoon vector by [vectorjuice](https://www.freepik.com/vectorjuice) from [freepik.com](https://www.freepik.com/vectors/cartoon).
+* Banner cartoon vector by [vectorjuice](https://www.freepik.com/author/vectorjuice) from [freepik.com](https://www.freepik.com/vectors/cartoon).
 
 ## Other How They... collections
 
