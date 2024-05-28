@@ -126,6 +126,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Confluent</summary>
+
+#### Talks
+
+* [Ducktape: Keeping System Testing Simple in a Distributed World](https://www.confluent.io/events/current/2022/ducktape-keeping-system-testing-simple-in-a-distributed-world/) - Ian McDonald @ Current 2022
+
+#### Tools
+
+* [ducktape](https://github.com/confluentinc/ducktape) - Distributed system integration and performance testing library.
+
+</details>
+
+<details>
   <summary>Console</summary>
 
 #### Blogs & Articles
