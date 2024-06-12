@@ -570,6 +570,10 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 * [Load Testing for 2022 Wrapped](https://engineering.atspotify.com/2023/03/load-testing-for-2022-wrapped/) - 2023
 
+#### Tools
+
+* [Lighthouse Audit Service](https://github.com/spotify/lighthouse-audit-service) - A service meant to help you run, schedule, store, and monitor Lighthouse reports over time.
+
 </details>
 
 <details>
