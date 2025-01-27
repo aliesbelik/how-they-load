@@ -53,7 +53,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [How Airtasker uses Ruby JMeter and Flood for their load testing](https://www.flood.io/blog/how-airtasker-uses-ruby-jmeter-and-flood-for-their-load-testing) - 2020
+* [How Airtasker uses Ruby JMeter and Flood for their load testing](https://nicolevanderhoeven.com/blog/20200224-airtasker/) - 2020
 
 #### Talks
 
@@ -77,7 +77,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Performance and scale testing](https://confluence.atlassian.com/adminjiraserver/performance-and-scale-testing-965568707.html)
+* [Performance and scale testing](https://confluence.atlassian.com/adminjiraserver/performance-and-scale-testing-1483246093.html)
 * [Jira Performance Testing - Available Tools](https://confluence.atlassian.com/enterprise/jira-performance-testing-available-tools-729743538.html)
 
 #### Tools
@@ -143,7 +143,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Automated website performance testing with GitHub Actions, k6 and Cloudflare Workers](https://blog.console.dev/automated-website-performance-testing-with-github-actions-k6-and-cloudflare-workers/) - 2021
+* [Automated website performance testing with GitHub Actions, k6 and Cloudflare Workers](https://web.archive.org/web/20230317030530/https://blog.console.dev/automated-website-performance-testing-with-github-actions-k6-and-cloudflare-workers/) - 2021
 
 </details>
 
@@ -406,7 +406,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [Load Testing at Mozilla](https://ziade.org/2017/03/23/load-testing-at-mozilla/) - 2017
+* [Load Testing at Mozilla](https://web.archive.org/web/20221209121345/https://ziade.org/2017/03/23/load-testing-at-mozilla/) - 2017
 
 #### Talks
 
@@ -425,7 +425,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 #### Blogs & Articles
 
 * [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe) - 2022
-* [Manufactured Chaos: How Netflix Does Performance Testing](https://www.flood.io/blog/manufactured-chaos-how-netflix-does-performance-testing) - 2018
+* [Manufactured Chaos: How Netflix Does Performance Testing](https://nicolevanderhoeven.com/blog/20180328-manufactured-chaos/) - 2018
 * [Performance Under Load](https://netflixtechblog.medium.com/performance-under-load-3e6fa9a60581) - 2018
 * [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9) - 2018
 * [Load Testing at Netflix: Virtual Interview with Coburn Watson](https://alexanderpodelko.com/blog/2014/02/11/load-testing-at-netflix-virtual-interview-with-coburn-watson/) - 2014
