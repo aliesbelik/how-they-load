@@ -708,6 +708,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Zoopla</summary>
+
+#### Blogs & Articles
+
+* [Measuring Web Page Performance at Zoopla](https://www.houseful.blog/posts/2021/measuring-page-performance/) - 2021
+
+</details>
+
+<details>
   <summary>ZOOZ</summary>
 
 #### Blogs & Articles
