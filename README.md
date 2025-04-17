@@ -207,6 +207,19 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Evil Martians</summary>
+
+#### Blogs & Articles
+
+* [Real-time stress: AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - 2021
+
+#### Tools
+
+* [websocket-bench](https://github.com/anycable/websocket-bench) - CLI interface for benchmarking WebSocket servers.
+
+</details>
+
+<details>
   <summary>Fitbit</summary>
 
 #### Blogs & Articles
