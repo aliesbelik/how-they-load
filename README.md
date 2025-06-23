@@ -49,6 +49,17 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Airbnb</summary>
+
+#### Blogs & Articles
+
+* [Load Testing with Impulse at Airbnb](https://medium.com/airbnb-engineering/load-testing-with-impulse-at-airbnb-f466874d03d2) - 2025
+* [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408) - 2023
+* [Measuring Web Performance at Airbnb](https://medium.com/airbnb-engineering/measuring-web-performance-at-airbnb-122da8d3ea3f) - 2021
+
+</details>
+
+<details>
   <summary>Airtasker</summary>
 
 #### Blogs & Articles
