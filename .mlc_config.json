@@ -4,6 +4,12 @@
   "ignorePatterns": [
     {
       "pattern": "^https://blog.cloudflare.com/"
+    },
+    {
+      "pattern": "^https://www.uber.com/"
+    },
+    {
+      "pattern": "^https://www.freepik.com/"
     }
   ]
 }
