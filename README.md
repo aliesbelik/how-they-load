@@ -328,6 +328,20 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>iits-consulting</summary>
+
+#### Blogs & Articles
+
+* [How We Load Test Argo CD at Scale: 1000 vClusters with GitOps on Kubernetes](https://itnext.io/how-we-load-test-argo-cd-at-scale-1-000-vclusters-with-gitops-on-kubernetes-d8ea2a8935b6) - 2025
+* [Performance testing Kubernetes workloads](https://medium.com/@stearz/performance-testing-kubernetes-workloads-144b2d8e4fb5) - 2024
+
+#### Talks
+
+* [Performance testing Kubernetes workloads](https://www.youtube.com/watch?v=-KQbWUZ_VoM) - Stephan Schwarz @ KubeFM
+
+</details>
+
+<details>
   <summary>LinkedIn</summary>
 
 #### Blogs & Articles
