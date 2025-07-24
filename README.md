@@ -632,6 +632,21 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Tag1 Consulting</summary>
+
+#### Blogs & Articles
+
+* [A Goose in the Clouds: Load Testing at Scale](https://www.tag1consulting.com/blog/goose-clouds-load-testing-scale) - 2021
+* [Goose Attack: A Locust-inspired Load Testing Tool in Rust](https://www.tag1consulting.com/blog/goose-locust-inspired-load-testing-tool-rust) - 2020
+
+#### Tools
+
+* [gander](https://github.com/tag1consulting/ddev-gander) - Pre-configured OpenTelemetry stack with Grafana Tempo / Prometheus for performance testing.
+* [goose](https://github.com/tag1consulting/goose) - A Rust load testing tool inspired by Locust.
+
+</details>
+
+<details>
   <summary>TeamSnap</summary>
 
 #### Blogs & Articles
