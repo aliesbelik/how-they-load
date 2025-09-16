@@ -100,6 +100,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>BigPanda</summary>
+
+#### Blogs & Articles
+
+* [Load Testing WebSockets](https://medium.com/bigpanda-engineering/load-testing-web-sockets-2c5a499e447e) - 2017
+
+</details>
+
+<details>
   <summary>Capital One</summary>
 
 #### Blogs & Articles
