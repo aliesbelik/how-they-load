@@ -100,6 +100,24 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Bedrock Streaming</summary>
+
+#### Blogs & Articles
+
+* [Scaling Bedrock video delivery to 50 million users](https://tech.bedrockstreaming.com/2021/12/15/scaling-bedrock-video-delivery-to-50-million-users.html) - 2021
+* [Benchmarking WebSockets with NodeJs](https://tech.bedrockstreaming.com/benchmarking-websockets-avec-nodejs) - 2013
+
+#### Talks
+
+* [Let’s load test M6+ to prepare for Euro 2024!](https://www.youtube.com/watch?v=NUwYlJjY3g4) - Paul-Henri Pillet, Benoit Colin @ Devoxx France 2025
+
+#### Tools
+
+* [websocket-bench](https://github.com/BedrockStreaming/websocket-bench) - Node.js tool to benchmark Socket.IO and Faye websocket servers.
+
+</details>
+
+<details>
   <summary>BigPanda</summary>
 
 #### Blogs & Articles
