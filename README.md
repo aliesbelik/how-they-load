@@ -629,6 +629,20 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>SoftwareMill</summary>
+
+#### Blogs & Articles
+
+* [Seamless k6.io Performance Testing in Scala Projects using Scala.js](https://softwaremill.com/seamless-k6-io-performance-testing-in-scala-projects-using-scala-js/) - 2026
+* Benchmarking Tapir: [part 1](https://softwaremill.com/benchmarking-tapir-part-1/), [part 2](https://softwaremill.com/benchmarking-tapir-part-2/), [part 3](https://softwaremill.com/benchmarking-tapir-part-3-loom/) - 2024
+
+#### Talks
+
+* [Performance tests with Gatling](https://www.youtube.com/watch?v=Kb0M6hsuRNw) - Andrzej Ludwikowski @ Code Europe Autumn 2017
+
+</details>
+
+<details>
   <summary>Spotify</summary>
 
 #### Blogs & Articles
