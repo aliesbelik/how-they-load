@@ -298,8 +298,8 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [The next step in performance testing? The GitLab Environment Toolkit](https://about.gitlab.com/blog/2021/06/15/why-we-are-building-the-gitlab-environment-toolkit-to-help-deploy-gitlab-at-scale/) - 2021
-* [How our QA team leverages GitLab’s performance testing tool (and you can too)](https://about.gitlab.com/blog/2020/02/18/how-were-building-up-performance-testing-of-gitlab/) - 2020
+* [The next step in performance testing? The GitLab Environment Toolkit](https://about.gitlab.com/blog/why-we-are-building-the-gitlab-environment-toolkit-to-help-deploy-gitlab-at-scale/) - 2021
+* [How our QA team leverages GitLab’s performance testing tool (and you can too)](https://about.gitlab.com/blog/how-were-building-up-performance-testing-of-gitlab/) - 2020
 
 #### Tools
 
@@ -323,11 +323,11 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Blogs & Articles
 
-* [How we use the k6 load-testing tool for developing Grafana](https://grafana.com/blog/2021/08/23/how-we-use-the-k6-load-testing-tool-for-developing-grafana/) - 2021
+* [How we use the k6 load-testing tool for developing Grafana](https://grafana.com/blog/how-we-use-the-k6-load-testing-tool-for-developing-grafana/) - 2021
 
 #### Tools
 
-* [The Open Source Load Testing Stack](https://github.com/grafana/k6-timescaledb-stack)
+* [The Open Source Load Testing Stack](https://github.com/grafana-cold-storage/k6-timescaledb-stack)
 
 </details>
 
@@ -547,6 +547,15 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 </details>
 
 <details>
+  <summary>Preply</summary>
+
+#### Blogs & Articles
+
+* [Load Testing Apollo Router](https://medium.com/preply-engineering/load-testing-apollo-router-2fe3c93e43c7) - 2026
+
+</details>
+
+<details>
   <summary>Redis</summary>
 
 #### Blogs & Articles
@@ -561,7 +570,7 @@ Inspired by [howtheytest](https://github.com/abhivaikar/howtheytest), **How They
 
 #### Tools
 
-* [memtier_benchmark](https://github.com/RedisLabs/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
+* [memtier_benchmark](https://github.com/redis/memtier_benchmark) - NoSQL Redis and Memcache traffic generation and benchmarking tool.
 * [redis-benchmark-go](https://github.com/redis-performance/redis-benchmark-go) - Redis benchmark utility in Go.
 
 </details>
